@@ -1,0 +1,61 @@
+{
+	"info": {
+		"_postman_id": "8a1d609d-758b-4288-9f05-e4325158a70c",
+		"name": "localsearch",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "List Users",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:8000/api/v1/users?provider=DataProviderX&statusCode=authorized&balanceMin=300&balanceMax=400&currency=sar",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"v1",
+						"users"
+					],
+					"query": [
+						{
+							"key": "provider",
+							"value": "DataProviderX"
+						},
+						{
+							"key": "statusCode",
+							"value": "authorized"
+						},
+						{
+							"key": "balanceMin",
+							"value": "300"
+						},
+						{
+							"key": "balanceMax",
+							"value": "400"
+						},
+						{
+							"key": "currency",
+							"value": "sar"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

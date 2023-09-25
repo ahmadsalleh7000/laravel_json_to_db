@@ -1,0 +1,3008 @@
+{
+  "transactions":[
+    {
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a610"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a610"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a610"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a610"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a610"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034165a3a610"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034165a3a610"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a610"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-034165a3a610"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-034165a3a610"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a611"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a611"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a611"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a611"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a611"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a611"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a611"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a611"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f634191"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400501"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a612"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a612"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a612"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a612"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6132"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a612"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a612"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f634192"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400502"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a614"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a614"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a614"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a614"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6134"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a614"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a614"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a614"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f634194"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400504"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a615"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a615"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a615"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a615"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6135"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a615"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a615"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a615"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f634195"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400505"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a616"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a616"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a616"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a616"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    },{
+      "parentAmount":380,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "parentAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "registrationDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "parentAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "parentAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "registrationDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "parentAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "registrationDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    }
+  ]
+}
