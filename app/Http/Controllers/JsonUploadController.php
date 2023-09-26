@@ -30,7 +30,7 @@ class JsonUploadController extends Controller
                 $this->InvalidJson();
             }
 
-            return redirect()->back()->with('success', 'JSON file uploaded successfully.');
+            return redirect()->back()->with('success', 'JSON file uploading is processing in the background, You can check transactions page for updates .');
         }
         return redirect()->back()->with('error', 'Error uploading JSON file.');
     }
